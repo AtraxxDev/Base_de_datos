@@ -1,5 +1,6 @@
 # <center> Base de datos Jugadores de League Of Legends </center>
 
+## Entidades
 <h2>  Jugadores </h2>
 
 - Nombre
@@ -9,13 +10,15 @@
 - Liga
 - Equipo 
 - Carril
+- Campeon
+- Rango
 
-<h2>  Rangos </h2>
+<h2>  Rango </h2>
 
 - Solo/Duo
 - Flexible
 
-<h2>  Campeones </h2>
+<h2>  Campeon </h2>
 
 - Nombre
 - Tipo
