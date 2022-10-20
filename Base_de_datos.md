@@ -1,42 +1,46 @@
 # <center> Base de datos Jugadores de League Of Legends </center>
 
 ## Entidades
-<h2>  Jugadores_id <PK> </h2>
+<h2>  Jugadores</h2>
 
+- Jugadores_id (PK)
 - Nombre
 - Fecha de Nacimiento
-- Nacionalidad
-- Server
-- Clasificacion
-- Carril
-- Rango
-- Liga
+- Pais (FK)
+- Server (FK)
+- Carril (FK)
+- Campeon (FK)
+- Liga (FK)
 
-<h2>  Clasificacion <FK> </h2>
 
-- Solo/Duo
-- Flexible
+<h2>  Liga <FK> </h2>
 
-<h2>  Liga  <FK> </h2>
+- Liga_ID (PK)
+- Region
+- Liga (FK)
 
-- Solo/Duo
-- Flexible
 
-<h2>  Rango <FK> </h2>
+<h2>  Pais </h2>
 
-- Hierro
-- Bronce 
-- PLata
-- Oro
-- Platino
-- Diamante
-- Maestro
-- Gran maestro
-- Challenger
+- Pais_ID (PK)
 
-<h2>  Nacionalidad <FK> </h2>
+- Nombre
 
-- Mexicana
-- Coreana
-- China
-- Colombiano
+- Dominio
+
+<h2>  Campeones </h2>
+
+- Campeones_ID (PK)
+- Nombre del camepeon 
+- Region del campeon
+- Tipo de campeon 
+
+<h2>  SERVERS </h2>
+
+- SERVERS_ID (PK)
+- Nombre del Servidor
+
+<h2>  RELACIONES </h2>
+
+- SERVERS_ID (PK)
+- Nombre del Servidor
