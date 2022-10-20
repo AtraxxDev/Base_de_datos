@@ -13,4 +13,4 @@
 <h2> Practicas </h2>
 
 - [Practica 2](/Base_de_datos.md)
-- [Practica 3 Hoja excel](https://docs.google.com/spreadsheets/d/1dmmWpL0NJMgGo6WfU0001wCs7QnD9WK1OViWd9LwEGA/edit#gid=0)
+- [Practica 3 Hoja excel](https://docs.google.com/spreadsheets/d/1dmmWpL0NJMgGo6WfU0001wCs7QnD9WK1OViWd9LwEGA/edit?usp=sharing)
