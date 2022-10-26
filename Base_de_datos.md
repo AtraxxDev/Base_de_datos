@@ -8,7 +8,7 @@
 - Fecha de Nacimiento
 - Pais (FK)
 - Server (FK)
-- Carril (FK)
+- Posicion (FK)
 - Campeon (FK)
 - Liga (FK)
 
@@ -39,6 +39,11 @@
 
 - SERVERS_ID (PK)
 - Nombre del Servidor
+
+<h2>  Posicion </h2>
+
+- Posicion_ID (PK)
+- Carril
 
 <h2>  RELACIONES </h2>
 
