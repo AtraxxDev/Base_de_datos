@@ -33,7 +33,6 @@
 - Campeones_ID (PK)
 - Nombre del camepeon 
 - Region del campeon
-- Tipo de campeon 
 
 <h2>  SERVERS </h2>
 
@@ -47,5 +46,10 @@
 
 <h2>  RELACIONES </h2>
 
-- SERVERS_ID (PK)
-- Nombre del Servidor
+- Un jugador tiene un Pais , Server , Posicion, Campeon y una Liga (1-M)
+- Una Liga tiene una Region (1-1)
+- Un pais tiene un Dominio (1-1)
+- Un Campeon tiene una Region y un nombre (1-M)
+- Un Server tiene un Nombre (1-1)
+- Una Posicion tiene un Carril (1-1)
+
