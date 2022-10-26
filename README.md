@@ -18,3 +18,4 @@
 
 - [Practica 4 Correcion Hoja excel](https://docs.google.com/spreadsheets/d/1dmmWpL0NJMgGo6WfU0001wCs7QnD9WK1OViWd9LwEGA/edit#gid=0)
 
+- [Practica 5 Relaciones](https://github.com/AtraxxDev/Base_de_datos/blob/main/Base_de_datos.md)
