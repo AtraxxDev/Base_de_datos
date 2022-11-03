@@ -56,3 +56,51 @@
 
 ![Database](https://cdn.discordapp.com/attachments/1011693764642877553/1037662832583528449/image.png)
 
+
+<h1> Reglas de Negocio </h1>
+
+<h2> Jugadores </h2>
+
+- Crear un Jugador
+- Leer todos los jugadores
+- Leer un jugador en particular
+- Actualizar un Jugador
+- Eliminar un Jugador
+
+<h2> Campeones </h2>
+
+- Leer todos los campeones
+- Leer un campeon en particular
+- Actualizar un campeon
+- Eliminar un campeon
+
+<h2> Pais </h2>
+
+- Crear un Pais
+- Leer todos los Paises
+- Leer un Pais en particular
+- Actualizar un Pais
+- Eliminar un Pais
+
+<h2> Posicion </h2>
+
+- Leer todas las Posiciones
+- Leer una Posicion en particular
+- Actualizar una Posicion
+- Eliminar un Posicion
+
+<h2> Liga </h2>
+
+- Crear una Liga
+- Leer todos las Ligas
+- Leer una Liga en particular
+- Actualizar una Liga
+- Eliminar una Liga
+
+<h2> Server </h2>
+
+- Crear un Server
+- Leer todos los Servers
+- Leer un Server en particular
+- Actualizar un Server
+- Eliminar un Server
