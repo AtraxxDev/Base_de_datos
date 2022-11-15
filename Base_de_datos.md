@@ -54,7 +54,7 @@
 - Una Posicion tiene un Carril (1-1)
 
 
-![Database](https://cdn.discordapp.com/attachments/1011693764642877553/1037662832583528449/image.png)
+![Database](https://cdn.discordapp.com/attachments/1011693764642877553/1042111099291586600/image.png)
 
 
 <h1> Reglas de Negocio </h1>
